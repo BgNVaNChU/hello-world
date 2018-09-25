@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository and I have absolutely no idea what I am doing.
+My name is Bogdan Vanciu, I'm 21 years old and I work at an Audi dealership. I was promoted to service writer for our service department. After working in that position for just over a month I realized I did not want to wake up one morning ten years from now and have to do what I am doing now. I wanted more. I wanted something bigger. So I decided to go back to school and learn how to code. I want to develope websites and progrmas. I wanted to wake up one day ten years from now and love what I'm doing. I am interested in network security and learning penetration tests. I am trying to learn as many languages as I can and learn how to code to the best of my abilities.
